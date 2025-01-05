@@ -24,7 +24,7 @@ I'm diving deeper into **backend technologies**, focusing on:
 #### **Languages**  
 - Go, Swift, Dart, Java  
 #### **Frameworks**  
-- Gin, RxSwift, Combine, Flutter (Bloc, GetIt)  
+- Gin, RxSwift, Combine, Flutter (Bloc, GetIt), SpringBoot
 #### **Databases**  
 - PostgreSQL, MySQL, Realm, MongoDB  
 #### **DevOps**  
