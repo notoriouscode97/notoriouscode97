@@ -28,9 +28,7 @@ I'm diving deeper into **backend technologies**, focusing on:
 #### **Databases**  
 - PostgreSQL, MySQL, Realm, MongoDB  
 #### **DevOps**  
-- Docker, GitLab CI/CD  
-#### **APIs and Tools**  
-- Swagger, JWT, Clean Architecture, Fastlane  
+- Docker, GitHub CI/CD, Fastlane 
 
 ### 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=notoriouscode97&show_icons=true&theme=radical)  
