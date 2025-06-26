@@ -3,7 +3,7 @@
 ### 🚀 About Me  
 I’m a Senior Software Engineer with over **8 years of professional experience**, primarily in mobile development. In the past, I specialized in **iOS development** and **Flutter**, building apps that have reached **millions of users** worldwide.  
 
-However, my focus has now shifted entirely to **backend development**. I'm passionate about designing and building scalable backend systems, microservices, and APIs. Over the last two years, I’ve been working with **Golang** and **Java**, utilizing modern tools and frameworks to deliver robust and efficient server-side solutions.  
+However, my focus has now shifted entirely to **backend development**. I'm passionate about designing and building scalable backend systems, microservices, and APIs. Over the last two years, I’ve been working with **Golang** and **Nodejs**, utilizing modern tools and frameworks to deliver robust and efficient server-side solutions.  
 
 ### 🏆 Highlights of My Career  
 - Transitioned from mobile to backend development to focus on scalable and server-side technologies.  
@@ -22,11 +22,11 @@ I'm diving deeper into **backend technologies**, focusing on:
 
 ### 🛠️ My Tech Stack  
 #### **Languages**  
-- Go, Swift, Dart, Java  
+- Go, Swift, Dart, Nodejs, Java  
 #### **Frameworks**  
-- Gin, RxSwift, Combine, Flutter (Bloc, GetIt), SpringBoot
+- Gin, Nestjs, RxSwift, Combine, Flutter (Bloc, GetIt), SpringBoot
 #### **Databases**  
-- PostgreSQL, MySQL, Realm, MongoDB  
+- Azure SQL, Azure Table Storage, PostgreSQL, MySQL, Realm, MongoDB  
 #### **DevOps**  
 - Docker, GitHub CI/CD, Fastlane 
 
