@@ -1,18 +1,17 @@
 # 👋 Hi there, I'm [notoriouscode97](https://github.com/notoriouscode97)  
 
 ### 🚀 About Me  
-I’m a Senior Software Engineer with over **8 years of professional experience**, primarily in mobile development. In the past, I specialized in **iOS development** and **Flutter**, building apps that have reached **millions of users** worldwide.  
-
-However, my focus has now shifted entirely to **backend development**. I'm passionate about designing and building scalable backend systems, microservices, and APIs. Over the last two years, I’ve been working with **Golang** and **Nodejs**, utilizing modern tools and frameworks to deliver robust and efficient server-side solutions.  
+I’m a Senior Software Engineer with over **8 years of professional experience**, focused on designing and building scalable backend systems, microservices, and APIs. My work has powered applications used by **millions of users** worldwide, and I thrive on creating efficient, reliable, and maintainable server-side solutions using Golang and Node.js
 
 ### 🏆 Highlights of My Career  
-- Transitioned from mobile to backend development to focus on scalable and server-side technologies.  
-- Built and maintained mobile apps that reached **over a million users**.  
+
+Delivered high-performance services in fast-paced, production environments.
+- Built and maintained backend systems that reached **over a million users**.  
 - Currently working at **VegaIT** as a **Senior Software Engineer** and **Tech Mentor**, leading teams and mentoring developers in building enterprise-grade applications.  
 
 ### 🌱 Currently Learning  
 I'm diving deeper into **backend technologies**, focusing on:  
-- Advanced **Golang** and **Java** backend systems.  
+- Advanced **Golang** and **Nodejs** backend systems.  
 - Distributed systems and **microservices architecture**.  
 
 ### ✨ Interests  
@@ -22,9 +21,9 @@ I'm diving deeper into **backend technologies**, focusing on:
 
 ### 🛠️ My Tech Stack  
 #### **Languages**  
-- Go, Swift, Dart, Nodejs, Java  
+- Go, Nodejs, Java, Swift, Dart  
 #### **Frameworks**  
-- Gin, Nestjs, RxSwift, Combine, Flutter (Bloc, GetIt), SpringBoot
+- Gin, Nestjs, SpringBoot, RxSwift, Combine, Flutter (Bloc, GetIt)
 #### **Databases**  
 - Azure SQL, Azure Table Storage, PostgreSQL, MySQL, Realm, MongoDB  
 #### **DevOps**  
