@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm [notoriouscode97](https://github.com/notoriouscode97)  
 
 ### 🚀 About Me  
-I’m a Senior Software Engineer with over **8 years of professional experience**, focused on designing and building scalable backend systems, microservices, and APIs. My work has powered applications used by **millions of users** worldwide, and I thrive on creating efficient, reliable, and maintainable server-side solutions using Golang and Node.js
+I’m a Senior Software Engineer with over **9 years of professional experience**, focused on designing and building scalable backend systems, microservices, and APIs. My work has powered applications used by **millions of users** worldwide, and I thrive on creating efficient, reliable, and maintainable server-side solutions using Golang and Node.js
 
 ### 🏆 Highlights of My Career  
 
